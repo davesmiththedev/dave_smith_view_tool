@@ -19,7 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DaveSmithViewTool::Renderer.copyright 'Dave Smith', 'All rights reserved'
+```
 
 ## Development
 
